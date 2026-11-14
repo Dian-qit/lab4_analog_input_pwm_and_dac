@@ -18,7 +18,7 @@ GPIO19          ── [330 Ω Resistor] ── LED Anode (+) | LED Cathode (−
 ## Hardware Wiring & Demonstration Media
 
 ### Breadboard Circuit Setup
-![Lab 4 Circuit Setup](./lab4_img.heic)
+![Lab 4 Circuit Setup](./lab4_img.HEIC)
 
 ---
 
